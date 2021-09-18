@@ -17,3 +17,10 @@ In order to compile the 32 bit executable, I had to run `sudo apt-get install gc
 
 Running either executable resulted in a shell, as expected.
 `whoami` returns my user.
+
+# Part 2
+I ran `make` inside `Labsetup/code`.
+It created 8 files called `stack-L1` through `stack-L4-dbg`.
+The make logs showed that all security features were disabled during compilation.
+
+
